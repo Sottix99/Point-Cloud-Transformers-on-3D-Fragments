@@ -1,1 +1,1 @@
-# Point-Cloud-Transformers-on-3D-Fragments-
+# Point Cloud Transformers on 3D Fragments
